@@ -1,0 +1,22 @@
+﻿.navbar-nav > li > a:hover{
+    margin-top:-2px;
+}
+
+.red:hover {
+    border-bottom:solid 2px red;
+}
+.green:hover {
+    border-bottom:solid 2px green;
+}
+
+.yellow:hover {
+    border-bottom:solid 2px yellow;
+}
+
+.blue:hover {
+    border-bottom:solid 2px blue;
+}
+
+.orange:hover {
+    border-bottom:solid 2px orange;
+}

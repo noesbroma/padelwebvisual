@@ -1,0 +1,8 @@
+﻿#grid{
+    text-align:center;
+}
+
+article{
+	display: inline;
+	float: left;
+}

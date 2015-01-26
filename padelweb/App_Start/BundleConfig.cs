@@ -26,6 +26,10 @@ namespace padelweb
             bundles.Add(new StyleBundle("~/Content/css").Include(
                       "~/Content/bootstrap.css",
                       "~/Content/site.css"));
+            bundles.Add(new StyleBundle("~/Grid/css").Include(
+                        "~/Content/grid.css",
+                        "~/Content/card.css",
+                        "~/Content/nav.css"));
         }
     }
 }
